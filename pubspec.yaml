@@ -1,7 +1,7 @@
 name: tipui
 description: igame ui widget for our project ,such as colorText show html,marquee,and Textswitcher.
-version: 0.0.1
-author: brzhang
+version: 0.0.2
+author: brzhang <bravekzhang@qq.com>
 homepage: https://github.com/bravekingzhang/tip-flutter-ui
 
 environment:

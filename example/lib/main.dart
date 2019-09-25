@@ -70,11 +70,12 @@ class _MyAppState extends State<MyApp> {
               ),
               Card(
                 child: Center(
-                    child: TipColorText(
-                  text,
-                  maxLines: 1,
-                  overflow: TextOverflow.ellipsis,
-                )),
+                  child: TipColorText(
+                    text,
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                  ),
+                ),
               ),
               Card(
                 child: Center(child: Text("TipColorText 多行")),
